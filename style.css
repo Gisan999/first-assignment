@@ -4,13 +4,13 @@
 }
 
 .section-one {
-    height: 90vh;
+    height: 800px;
     background-color: rgb(255, 240, 240);
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding-bottom: 0px;
-    /* padding: 30px 30px 0px 150px; */
+   
 }
 
 .section-one-content {
@@ -47,7 +47,7 @@
 
 .img-one {
     height: 750px;
-    margin-top: 13px;
+    margin-top: 50px;
     
    
 }
