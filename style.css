@@ -53,7 +53,7 @@
 }
 
 .section-two {
-    height: 100vh;
+    height: 950px;
 }
 
 .section-two-content {
@@ -179,9 +179,10 @@
 }
 
 .section-five {
-    height: 900px;
-    background-color: rgb(212, 194, 230);
-    margin-top: 30px;
+    height: 1100px;
+    background-color: rgb(192, 183, 196);
+    background-blend-mode: overlay;
+    margin-top: 80px;
 }
 
 .section-five-content {
@@ -191,6 +192,7 @@
 
 .section-five-title {
     padding-top: 20px;
+
 }
 
 .bonus-content {
@@ -198,6 +200,7 @@
     font-style: italic;
     color: rgb(111, 128, 19);
     margin: 20px;
+    padding-top: 20px;
 
 }
 
@@ -207,6 +210,7 @@
     margin-bottom: 20px;
     gap: 20px;
     justify-content: center;
+    padding-top: 40px;
 
 }
 
